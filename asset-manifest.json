@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https://github.com/siddhesh13999/TextApp/static/css/main.073c9b0a.css",
-    "main.js": "/https://github.com/siddhesh13999/TextApp/static/js/main.f32397a7.js",
-    "static/js/787.719ec76d.chunk.js": "/https://github.com/siddhesh13999/TextApp/static/js/787.719ec76d.chunk.js",
-    "index.html": "/https://github.com/siddhesh13999/TextApp/index.html",
-    "main.073c9b0a.css.map": "/https://github.com/siddhesh13999/TextApp/static/css/main.073c9b0a.css.map",
-    "main.f32397a7.js.map": "/https://github.com/siddhesh13999/TextApp/static/js/main.f32397a7.js.map",
-    "787.719ec76d.chunk.js.map": "/https://github.com/siddhesh13999/TextApp/static/js/787.719ec76d.chunk.js.map"
+    "main.css": "/TextApp/static/css/main.073c9b0a.css",
+    "main.js": "/TextApp/static/js/main.b6aae295.js",
+    "static/js/787.719ec76d.chunk.js": "/TextApp/static/js/787.719ec76d.chunk.js",
+    "index.html": "/TextApp/index.html",
+    "main.073c9b0a.css.map": "/TextApp/static/css/main.073c9b0a.css.map",
+    "main.b6aae295.js.map": "/TextApp/static/js/main.b6aae295.js.map",
+    "787.719ec76d.chunk.js.map": "/TextApp/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f32397a7.js"
+    "static/js/main.b6aae295.js"
   ]
 }
