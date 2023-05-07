@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Le Monde",
+            "title": "UE : une adaptation utile des règles budgétaires",
+            "description": "Les modifications adoptées par la Commission européenne tiennent compte des erreurs du passé et du fort besoin d’investissements pour l’avenir.",
+            "url": "https://www.lemonde.fr/idees/article/2023/04/29/ue-une-adaptation-utile-des-regles-budgetaires_6171507_3232.html",
+            "urlToImage": "https://img.lemde.fr/2023/04/29/0/198/4104/2736/1440/960/60/0/b0e6a34_1682751883362-000-ow4vp.jpeg",
+            "publishedAt": "2023-04-29T08:28:23Z",
+            "content": "Dans la foulée de la crise due au Covid-19, la suspension des règles encadrant les finances publiques des Etats membres de lUnion européenne avait fait lobjet dun large consensus qui relevait de lévi… [+3336 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "The Indian Express",
+            "title": "Karnataka Elections 2023: PM Modi calls Congress’ ‘abuse politics,’ as ‘poll strategy’, says, ‘they have abused me 91 times…’ - The Indian Express",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2VsZWN0aW9ucy9rYXJuYXRha2EtZWxlY3Rpb25zLTIwMjMtcG0tbW9kaS1yYWxseS1saXZlLXVwZGF0ZXMtc2hpdmFrdW1hci1ib21tYWktcmFodWwtZ2FuZGhpLWJqcC1jb25ncmVzcy04NTgyMTE3L9IBkQFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2VsZWN0aW9ucy9rYXJuYXRha2EtZWxlY3Rpb25zLTIwMjMtcG0tbW9kaS1yYWxseS1saXZlLXVwZGF0ZXMtc2hpdmFrdW1hci1ib21tYWktcmFodWwtZ2FuZGhpLWJqcC1jb25ncmVzcy04NTgyMTE3L2xpdGUv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-04-29T06:31:00+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "les-echos",
+                "name": "Les Echos"
+            },
+            "author": "Marie-Josée Cougard",
+            "title": "Nutri-Score : pourquoi le lait est rétrogradé et le hareng promu",
+            "description": "Le Nutri-Score a changé sa méthode de classement nutritionnel des aliments. Le nouveau système entend « promouvoir des choix plus favorables à la santé ». Les modifications opérées ne vont pas sans quelques grincements de dents du côté des entreprises.",
+            "url": "https://www.lesechos.fr/industrie-services/conso-distribution/nutri-score-pourquoi-le-lait-est-retrograde-et-le-hareng-promu-1939139",
+            "urlToImage": "https://media.lesechos.com/api/v1/images/view/644b8c3bdbfc7300181f315a/1280x720/09060388361-web-tete.jpg",
+            "publishedAt": "2023-04-28T09:04:55Z",
+            "content": "Le Nutri-Score n'est pas obligatoire mais s'est répandu à vitesse grand « V » en France. En l'espace de six ans, le système de notation des aliments est incontestablement devenu un repère utile aux c… [+740 chars]"
+        },
+        {
+            "source": {
+                "id": "la-nacion",
+                "name": "La Nacion"
+            },
+            "author": null,
+            "title": "Senado: por ley, no se podrá circular con alcohol en sangre en las rutas nacionales",
+            "description": "La iniciativa modifica el artículo 48 de la actual norma de tránsito; ya hay 13 provincias que tienen tolerancia cero en sus territorios",
+            "url": "https://www.lanacion.com.ar/sociedad/senado-por-ley-no-se-podra-circular-con-alcohol-en-sangre-en-las-rutas-nacionales-nid13042023/",
+            "urlToImage": "https://resizer.glanacion.com/resizer/Tn13uakGYzf98gn6P5Eu5VIPdRA=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/XH7IGIKIJBBXZFMPTELYGJDGXY.jpg",
+            "publishedAt": "2023-04-13T23:44:01.291Z",
+            "content": "Con 48 votos a favor, el Senado convirtió en la ley el proyecto de alcohol cero al volante, que prohíbe conducir en todas lasrutas nacionales del país con alcohol en sangre.\r\nLa iniciativa modifica e… [+1972 chars]"
+        },
+        {
+            "source": {
+                "id": "les-echos",
+                "name": "Les Echos"
+            },
+            "author": "Dominique Chapuis",
+            "title": "Nutri-score : la colère des fromages AOP moins bien notés que les pizzas ou les frites",
+            "description": "Comté, roquefort, camembert, les appellations d'origine protégée des fromages ont demandé une modification du Nutri-score pour remonter leur note, aujourd'hui entre D et E. Ils ont reçu une fin de non-recevoir cet été. L'Europe travaille sur le sujet.",
+            "url": "https://www.lesechos.fr/industrie-services/conso-distribution/nutri-score-la-colere-des-fromages-aop-moins-bien-notes-que-les-pizzas-ou-les-frites-1867354",
+            "urlToImage": "https://media.lesechos.com/api/v1/images/view/634151e9e1993a4d391a9385/1280x720/0702468472181-web-tete.jpg",
+            "publishedAt": "2022-10-08T10:30:00Z",
+            "content": "Les fromages AOP font grise mine. La demande de leur filière de révision du Nutri-Score, le système de notation des aliments, a reçu une fin de non-recevoir en août. Une douche froide, alors que leur… [+640 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "'Inappropriate': PM Modi objects to 'protocol break' during meeting; Delhi CM expresses regret",
+            "description": "India News: Delhi chief minister Arvind Kejriwal on Friday faced flak for sharing a live telecast of an \"in-house\" meeting with Prime Minister Narendra Modi where",
+            "url": "http://timesofindia.indiatimes.com/india/delhi-cmo-expresses-regret-over-televised-address-during-meeting-with-pm-modi/articleshow/82213159.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82213159,width-1070,height-580,imgsize-134672,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T03:54:00Z",
+            "content": null
+        }
+    ]
+}
